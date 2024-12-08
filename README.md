@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there 👋
+---
 - 😄 I have created this account to host some fun side projects.
 - ⚡ Questions? Write me an email at shiyis@brandeis.edu
 
