@@ -1,4 +1,4 @@
-- 👋 Hi there! It's me Shiyi again.
+- 👋 Hi there! It's me again.
 - 🤩 I have created this profile to host some fun side projects.
 - ⚡️ Questions? Write me an email at shiyis@brandeis.edu.
 
