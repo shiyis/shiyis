@@ -1,6 +1,7 @@
-- 👋 Hi there! It's me again.
-- 🤩 I have created this profile to host some fun side projects.
-- ⚡️ Questions? Write me an email at shiyis@brandeis.edu.
+- 🤖 Hi there! My name is Shiyi
+- 🔘 I have created this profile to host some fun projects.
+- 🍃 I am also learning interesting cool new technologies (cloud computing etc)
+- 💌 Questions? Write me an email at shiyis@brandeis.edu.
 
 
 <!--
