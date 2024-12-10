@@ -1,6 +1,6 @@
-- 🤖 Hi there! My name is Shiyi
+- 🤖 Hi there! I'm Shiyi.
 - 🎛️ I have created this profile to host some fun projects.
-- 🍃 I am also learning interesting cool new technologies (cloud computing etc)
+- 🍃 I am also learning cool technologies (i.e. cloud computing).
 - 💌 Questions? Write me an email at shiyis@brandeis.edu.
 
 
