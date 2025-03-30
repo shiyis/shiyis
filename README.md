@@ -1,7 +1,7 @@
 - 🤖 Hello there! My name is Shiyi.
 - 🎛️ Welcome to my github profile (or my creative space) where I host some fun NLP projects.
 - 💻 I am also learning cool technologies (i.e. cloud computing platforms such as AWS and Google Cloud Platform).
-- 💌 Questions? Write me an email at shiyis@brandeis.edu.
+- 📧 Questions? Write me an email at shiyis@brandeis.edu.
 
 
 <!--
